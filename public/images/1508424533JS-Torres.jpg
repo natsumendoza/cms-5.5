@@ -1,0 +1,10 @@
+- Not login hide cart buttons
+- Put jersey and bag tab/links
+- Registration
+- Change password
+- If admin show modules for business (Dropdown Menu [Products(Upload image), Orders List(Open, On-going, cancelled, Delivered)])
+- If client(loggedin) show add cart div
+- User's Orders status https://www.lazada.com.ph/customer/account/ **In orders list show per item
+- My profile (Edit details)
+- Email Notifs (List(Approved/Open, Shipped, cancelled, Delivered))
+- Chat
